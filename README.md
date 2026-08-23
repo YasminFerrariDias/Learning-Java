@@ -17,14 +17,14 @@ Exercícios desenvolvidos no ensino médio durante os primeiros contatos com pro
 
 Requisito: [JDK 11+](https://www.oracle.com/java/technologies/downloads/)
 
-```bash
-# Compilar
+Compile o arquivo desejado:
+​```
 javac NomeDoArquivo.java
+​```
 
-# Executar
+Em seguida, execute:
+​```
 java NomeDoArquivo
-```
+​```
 
 > Arquivos que utilizam `JOptionPane` requerem ambiente com interface gráfica.
->
-> Desenvolvido por **Yasmin Ferrari Dias** 🚀
